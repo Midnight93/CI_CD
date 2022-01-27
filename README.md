@@ -1,1 +1,1 @@
-# Continuous integration (CI)  continuous deployment (CD) with Actions
+CI - CD with Actions, Flask and Heroku
